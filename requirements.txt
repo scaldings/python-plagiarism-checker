@@ -1,0 +1,4 @@
+requests~=2.24.0
+beautifulsoup4~=4.9.3
+setuptools~=50.3.2
+google~=3.0.0

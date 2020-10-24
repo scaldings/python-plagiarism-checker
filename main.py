@@ -21,7 +21,7 @@ def plagiarism_check(qry: str):
 
 
 def main():
-    query = input('Enter the text you want to search for: ')
+    query = str(input('Enter the text you want to check: '))
     link = plagiarism_check(query)
 
     if link is None:
